@@ -1,1 +1,3 @@
 
+git checkout -b "dittnamn"
+git push origin dittnamn
